@@ -111,8 +111,7 @@ const config = {
       { title: "september, 2024", description: "teachers day Celebration 🎉" }, // Picture entry
       { title: "February , 2025", description: " 4th floor memories 💕" },
       { title: "january, 2025", description: "me and my world 🌍" },
-      { title: "august, 2025 , description: brought back my smile 😊 },
-    ],
+         ],
   
 
   // 💌 Love Letter Page
