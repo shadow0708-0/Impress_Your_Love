@@ -54,8 +54,8 @@ const config = {
       top: "5%", // Positioning on the page
     },
     {
-      title: "The Boy Is Mine",
-      artist: "Brandy, Monica",
+      title: "Ishq Hai",
+      artist: "Anurag Saikia",
       left: "40%",
       top: "15%",
     },
