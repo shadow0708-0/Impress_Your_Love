@@ -60,14 +60,14 @@ const config = {
       top: "15%",
     },
     {
-      title: "Die With A Smile",
-      artist: "Lady Gaga, Bruno Mars",
+      title: "I Wanna Be Yours",
+      artist: "Arctic Monkeys",
       left: "15%",
       top: "40%",
     },
     {
-      title: "Last Night on Earth",
-      artist: "Green Day",
+      title: "Tum Ho Toh",
+      artist: "Iqlipse Nova",
       left: "30%",
       top: "75%",
     },
