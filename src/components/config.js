@@ -72,8 +72,8 @@ const config = {
       top: "75%",
     },
     {
-      title: "American Boy",
-      artist: "Estelle, Kanye West",
+      title: "Khwab",
+      artist: "Iqlipse Nova",
       left: "5%",
       top: "65%",
     },
