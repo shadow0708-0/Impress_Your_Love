@@ -78,8 +78,8 @@ const config = {
       top: "65%",
     },
     {
-      title: "Sparks",
-      artist: "Coldplay",
+      title: "Main tera",
+      artist: "Arijit Singh, Pritam Chakraborty",
       left: "25%",
       top: "90%",
     },
