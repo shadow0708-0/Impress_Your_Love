@@ -84,14 +84,14 @@ const config = {
       top: "90%",
     },
     {
-      title: "Kiss Me Thru The Phone",
-      artist: "Soulja Boy, Sammie",
+      title: "Teri Aankhon Mein",
+      artist: " Darshan Raval, Manan Bhardwaj, Neha Kakkar",
       left: "35%",
       top: "50%",
     },
     {
-      title: "Sunsetz",
-      artist: "Cigarettes After Sex",
+      title: "Finding Her",
+      artist: "Bharath, Kushagra,Saaheal",
       left: "10%",
       top: "25%",
     },
