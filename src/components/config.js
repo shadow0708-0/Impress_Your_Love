@@ -17,9 +17,10 @@ const config = {
   searchPlaceholder: "Search Google or type a URL", // Placeholder text in the search input
   trendingTitle: "Trending searches", // Title for the trending searches section
   trendingSearches: [
-    "Why is my gf so cute?", // Example trending search query
-    "Why does i love ritu more?", // Another example query
-    `what does ritu love`, // A personalized trending search
+    "What magic is in her eyes and voice?", // Example trending search query
+    "How to stay calm when she wears that kurthi 👀", // Another example query
+    "What to do when she gives puppy eyes"// Another example query
+    `Can someone be cute and dangerous? (asking for Ritu)`, // A personalized trending search
   ],
   proTip: 'Pro tip: try searching "How long have we been together?" ;)', // Helpful tip for users
 
