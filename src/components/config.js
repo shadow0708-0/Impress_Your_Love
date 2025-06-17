@@ -115,7 +115,7 @@ const config = {
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "I love you so much💖  Mummy,you are my shadow you are my everything my kanna ,y bangaram ,naa chittii yttalli kanna", // Message displayed on the love letter page
+  loveLetterMessage: " Mummy,you make me happpy in ways u can't even imagine,i am the luckiest person alive to have you as girlfriend,you have became my home,my everything ,you gave me the feeling that you are not a part of my soul but my soul itself,I love you so much💖", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for everything, my love! 💖 Wishing us many more wonderful years together.", // Closing message displayed
