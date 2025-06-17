@@ -115,7 +115,7 @@ const config = {
   
 
   // 💌 Love Letter Page
-  loveLetterMessage: "Hi, I love you so much💖", // Message displayed on the love letter page
+  loveLetterMessage: "I love you so much💖  Mummy,you are my shadow you are my everything my kanna ,y bangaram ,naa chittii yttalli kanna", // Message displayed on the love letter page
 
   // 🎇 Closing Page
   closingMessage: "Thank you for everything, my love! 💖 Wishing us many more wonderful years together.", // Closing message displayed
